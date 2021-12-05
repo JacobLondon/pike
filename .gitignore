@@ -1,0 +1,5 @@
+wpa_supplicant.conf
+*.exe
+*.o
+*.tar.gz
+*.zip
