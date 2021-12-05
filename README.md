@@ -9,8 +9,8 @@ times: -1 is infinity
 
 weave [right|left] [%d times] [%f widness]
 bob [right|left] [%d times] [%f wideness]
-spiral [cw|ccw] [%d times] [%f widness]
+spiral [cw|ccw] [up|down] [%d times] [%f widness]
 dive [%f percent] [%f angle] [right|left recovery]
-eights [cw|ccw] [%d times]
+eights [cw|ccw] [up|down] [%d times]
 MORE (pending)
 ```
