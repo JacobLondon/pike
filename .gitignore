@@ -3,3 +3,5 @@ wpa_supplicant.conf
 *.o
 *.tar.gz
 *.zip
+.vscode
+
