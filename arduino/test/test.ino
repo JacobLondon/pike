@@ -43,7 +43,7 @@ void setup() {
   Serial.begin(9600);
 
   // load pin table
-  for (int i; i < ARRAY_SIZE(pinConfig); i++) {
+  for (int i = 0; i < ARRAY_SIZE(pinConfig); i++) {
     pinMode(pinConfig[i].pinNumber, pinConfig[i].inOrOut);
   }
 
